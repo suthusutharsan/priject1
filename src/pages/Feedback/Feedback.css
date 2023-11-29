@@ -1,0 +1,53 @@
+.feedback{
+    margin-top: 0px;
+}
+.feeback .top8 p{
+    color: #224F34;
+    font-family: Roboto Slab;
+    font-size: 50px;
+    font-weight: 500;
+    text-align: center;
+    margin-bottom: 110px;
+}
+.feeback .bottom8 .cards8{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.feeback .bottom8 .cards8 .card8:nth-child(2){
+    background-color:#C2EFD4;
+    border-radius: 3px;
+background: #C2EFD4;
+box-shadow: 0px 7px 30px 0px rgba(0, 0, 0, 0.05);
+}
+.feeback .bottom8 .cards8 .card8{
+    padding: 10px 15px;
+    border-radius: 3px;
+background: #FFF;
+box-shadow: 0px 7px 30px 0px rgba(0, 0, 0, 0.05);
+margin-bottom: 350px;
+}
+.feeback .bottom8 .cards8 p:nth-child(1){
+    color: #224F34;
+font-family: Arial Rounded MT Bold;
+font-size: 60px;
+font-weight: 400;
+}
+.feeback .bottom8 .cards8 p:nth-child(2){
+    color: #224F34;
+    font-family: Roboto Serif;
+    font-size: 22px;
+    font-weight: 600;
+    margin-bottom: 30px;
+}
+.feeback .bottom8 .cards8 p:nth-child(3){
+    color: #6F6F6F;
+font-family: Poppins;
+font-size: 16px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+}
+
+

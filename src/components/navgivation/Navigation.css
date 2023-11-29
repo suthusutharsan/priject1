@@ -1,0 +1,42 @@
+.nav{
+ display: flex;
+ justify-content: space-around;
+ align-items:center;
+ background: #C2EFD4;
+ padding: 20px 0px;
+}
+.nav .left1{
+    color: #224F34;
+    font-size: 40px;
+    font-weight: 400;
+    font-family: Elephant;
+    
+}
+.nav .middle1 {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 3rem;
+}
+.nav .middle1 .page1{
+    color: #224F34;
+font-size: 22px;;
+font-weight: 500;
+}
+.nav .right1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 3rem;
+}
+.nav .right1 button{
+    width: 142px;
+height: 52px;
+border-radius: 3px;
+border: 2px solid #224F34;
+color: #224F34;
+font-size: 20px;
+font-weight: 500;
+background-color: inherit;
+cursor: pointer;
+}

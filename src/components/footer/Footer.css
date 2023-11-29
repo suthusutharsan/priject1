@@ -1,0 +1,97 @@
+.footer{
+  color: white;
+  background-color: #224F34;
+  padding: 80px 50px;
+}
+.footer .top2{
+    display: flex;
+    justify-content: space-around;
+    align-items: flex-start;
+}
+.footer .top2 .fcontent1 p:first-child{
+font-family: Elephant;
+font-size: 50px;
+font-weight: 400;
+margin-bottom: 44px;
+}
+.footer .top2 .fcontent1 p:last-child{
+    color: #FFF;
+    font-family: Roboto Slab;
+    font-size: 22px;
+    font-weight: 500;
+}
+.footer .top2 .fcontent1 .icons2{
+    margin-top: 24px;
+    display: flex;
+    gap:1rem;
+}
+.footer .top2 .fcontent2 p,.fcontent3 p,.fcontent4 p {
+    color: #C2EFD4;
+font-family: Poppins;
+font-size: 20px;
+font-weight: 500;
+text-transform: capitalize;
+margin-bottom: 18px;
+}
+.footer .top2 .fcontent2 p:first-child,.fcontent3 p:first-child,.fcontent4 p:first-child{
+    color: white;
+font-family: Roboto Slab;
+font-size: 22px;
+font-weight: 500;
+text-transform: uppercase;
+margin-bottom: 25px;
+}
+.footer .top2 .fcontent4 .search4{
+    background: #A3F3BE;
+    margin: 0px;
+    padding: 0px;
+}
+.footer .top2 .fcontent4 input{
+    width:487px;
+height: 57px;
+    border-radius: 3px;
+border: 2px solid #A3F3BE;
+margin-right: 0px;
+background-color:  #224F34;
+color: #FFF;
+font-family: Poppins;
+font-size: 20px;
+font-weight: 400;
+}
+.footer .top2 .fcontent4 input::placeholder{
+    color: #FFF;
+font-family: Poppins;
+font-size: 20px;
+font-weight: 400;
+}
+
+.footer .top2 .fcontent4 button{
+    width: 115px;
+height: 57px;
+background: #A3F3BE;
+margin-left: 0px;
+color: #224F34;
+font-family: Poppins;
+font-size: 20px;
+font-weight: 500;
+text-transform: uppercase;
+border: none;
+}
+.footer .bootom2 {
+    display: flex;
+    align-items: center;
+    gap: 2rem;
+    margin-top: 150px;
+}
+.footer .bootom2 .divder2{
+    width: 1051px;
+height: 2px;
+background: #A3F3BE;
+}
+.footer .bootom2 p{
+    color: #FFF;
+font-family: Poppins;
+font-size: 20px;
+font-weight: 600;
+text-transform: capitalize;
+}

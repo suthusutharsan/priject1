@@ -1,0 +1,55 @@
+
+.exclusive{
+display: flex;
+align-items: center;
+justify-content: space-around;
+background: #C2EFD4;
+}
+.exclusive .left5{
+    background: url("../../../public/images/exclusive.png");
+    width: 482px ;
+    height: 596px;
+}
+.exclusive .right6 p:nth-child(1){
+    color: #224F34;
+font-family: Roboto Slab;
+font-size: 46px;
+font-weight: 700;
+margin-bottom: 20px;
+}
+.exclusive .right6 p:nth-child(2){
+    color: #224F34;
+font-family: Poppins;
+font-size: 22px;
+font-weight: 500;
+line-height: 167%;
+}
+.exclusive .right6 .timing6{
+    margin-top: 40px;
+    display: flex;
+    gap: 35px;
+      
+/* color: blue; */
+}
+.exclusive .right6 .timing6 .time6 p{
+    text-align: center;
+    width: 50px;
+    height: 50px;;
+    background-color: white;
+    color: #224F34;
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: 600;
+}
+.exclusive .right6 button{
+    margin-top: 40px;
+    width: 235px;
+height: 74px;
+    border-radius: 3px;
+background: #224F34;
+box-shadow: 0px 7px 30px 0px rgba(0, 0, 0, 0.05);
+color: #FFF;
+font-family: Poppins;
+font-size: 20px;
+font-weight: 500;
+}

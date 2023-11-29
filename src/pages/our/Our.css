@@ -1,0 +1,65 @@
+.our {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 200px;
+}
+.our .top5 p{
+    color: #224F34;
+    font-family: Roboto Slab;
+    font-size: 50px;
+    font-weight: 500;
+    margin-bottom: 70px;
+    
+}
+.our .middle5 {
+   display: flex;
+   gap: 100px;
+   margin-bottom: 80px;
+}
+.our .middle5 p{
+    color: #454545;
+font-family: Poppins;
+font-size: 22px;
+font-weight: 500;
+}
+.our .middle5 p:nth-child(2){
+    text-decoration: underline;
+}
+.our .bottom5 {
+    width: 100vw;
+}
+.our .bottom5 .m5{
+    margin-bottom: 50px;
+    display: flex; 
+    justify-content: space-around;
+    flex-wrap: wrap;
+    overflow-x: hidden;
+}
+.our .bottom5 .m5 .cards5 img{
+    width: 300px;
+    height: 400px;
+ background-color:aquamarine; 
+}
+.our .bottom5 .m5 .cards5 .content5 {
+    color: #373737;
+    text-align: center;
+    font-family: Poppins;
+    font-size: 22px;
+    font-weight: 600;
+}
+.our .bottom5 .cards5 .content5 .details{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.our .bottom5 .m5 .cards5 .content5.details .diveder5{
+    width: 1px;
+height: 27px;
+background: #454545;
+}
+.our .bottom5 .m5 .cards5 .content5 .details .review5{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}

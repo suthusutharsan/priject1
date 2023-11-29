@@ -1,0 +1,60 @@
+.best .top4 p:first-child{
+    color: #224F34;
+font-family: Roboto Slab;
+font-size: 64px;
+font-weight: 500;
+text-align: center;
+margin-bottom: 37px;
+}
+.best .top4 p:last-child{
+    color: #224F34;
+    font-family: Poppins;
+    font-size: 22px;
+    font-weight: 500;
+    text-align: center;
+}
+.best .middle4{
+    display: flex;
+    justify-content: space-around;
+}
+.best .middle4 .cards4 img{
+    width: 430px;
+    height: 566px;
+ background-color:aquamarine; 
+}
+.best .middle4 .cards4 .content4 {
+    color: #373737;
+    text-align: center;
+    font-family: Poppins;
+    font-size: 22px;
+    font-weight: 600;
+}
+.best .middle4 .cards4 .content4 .details{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.best .middle4 .cards4 .content4 .details .diveder4{
+    width: 1px;
+height: 27px;
+background: #454545;
+}
+.best .middle4 .cards4 .content4 .details .review4{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+.best .bottom4 button{
+    width: 114px;
+    height: 33px;
+border-radius: 3px;
+/* padding: 0px px; */
+border: 2px solid #224F34;
+color: #224F34;
+font-family: Poppins;
+font-size: 22px;
+font-weight: 500;
+text-align: center;
+margin: 30px 630px;
+position: relative;
+}
